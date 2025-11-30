@@ -76,7 +76,7 @@ export function TopBar(): JSXElement {
               </details>
             </li>
             <li>
-              <A href="/about-us" class="text-lg" activeClass="font-bold" end>
+              <A href="/about" class="text-lg" activeClass="font-bold" end>
                 {t('about_applyai')}
               </A>
             </li>
@@ -178,7 +178,7 @@ export function TopBar(): JSXElement {
           </li>
           <li>
             <A
-              href="/about-us"
+              href="/about"
               class="text-lg py-3"
               activeClass="font-bold"
               end

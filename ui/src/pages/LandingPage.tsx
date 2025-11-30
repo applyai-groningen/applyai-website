@@ -17,7 +17,16 @@ export function LandingPage(): JSXElement {
 
   return (
     <BasePage title="Home">
-      <div class="flex justify-center items-center min-h-[90vh] px-4 sm:px-6 md:px-8">
+      <div
+        class="flex justify-center items-center min-h-[100vh] px-4 sm:px-6 md:px-8"
+        style={{
+          'background-image':
+            'linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/groningen.jpg)',
+          'background-size': 'cover',
+          'background-position': 'center',
+          'background-repeat': 'no-repeat',
+        }}
+      >
         <div class="w-full max-w-6xl">
           <div class="flex flex-col sm:flex-row justify-center items-center mb-8 gap-4">
             <img
@@ -34,7 +43,7 @@ export function LandingPage(): JSXElement {
           </div>
 
           <p class="text-xl sm:text-2xl md:text-3xl mb-12 text-center max-w-4xl mx-auto">
-            {t('groningse_ai_local_honest_independent')}
+            {t('how_to_stay_human')}
           </p>
 
           <div class="flex flex-col sm:flex-row gap-6 justify-center">
