@@ -33,7 +33,7 @@ export const dict = {
   current_password: 'Huidig wachtwoord',
   data_and_privacy: 'Data en privacy',
   data_and_privacy_description1:
-    "In deze module kijken we naar het vraagstuk over veiligheid en privacy van data. Om dit goed te begrijpen, verdiepen we ons in hoe je van een AI model een product maakt. Wat komt hierbij kijken? Waar 'draaien' AI modellen dan? Waar gaat je data dan heen en hoe verhoudt dat zich tot de AVG? Traint elk bedrijf zijn eigen AI modellen, of is hier een patroon in te vinden?",
+    "In deze module kijken we naar het vraagstuk over veiligheid en privacy van data. Om dit goed te begrijpen, verdiepen we ons in hoe je van een AI model een product maakt. Wat komt hierbij kijken? Waar 'draaien' AI modellen dan? Waar gaat je data dan heen en hoe verhoudt dat zich tot de AVG? Traint elk organisatie zijn eigen AI modellen, of is hier een patroon in te vinden?",
   data_and_privacy_description2:
     'Aan het eind van de module weet je precies hoe je kan beoordelen of een AI applicatie veilig met je data omgaat.',
   delete_account: 'Account verwijderen',
@@ -54,8 +54,8 @@ export const dict = {
   phone_placeholder: 'Telefoonnummer (optioneel)',
   please_enter_only_numbers: 'Voer alleen cijfers in',
   forgot_password: 'Wachtwoord vergeten?',
-  groningse_ai_local_honest_independent:
-    "AI op z'n Gronings: lokaal, transparant en onafhankelijk",
+  how_to_stay_human:
+    'Mens blijven in een wereld die sneller dan ooit digitaliseert',
   here_is_a_picture_of_a: 'Hier is een foto van een ',
   home: 'Home',
   how_does_ai_work: 'AI basis',
@@ -73,13 +73,13 @@ export const dict = {
   learn_more_p1: `We leven in een wereld waarin Artificial Intelligence (AI) ongekende nieuwe mogelijkheden,
     maar ook onzekerheid en soms angst met zich meebrengt. Wat moeten we met deze technologie?
     Hoe zorg je goed voor mensen en voor de aarde, maar benut je wel de beste technologie van deze tijd?
-    Hoe bereid je je bedrijf of medewerkers voor op veranderingen die er gaan komen?
-    Welke kansen liggen er voor jouw bedrijf? En welke kansen zeg je bewust nee tegen?`,
-  learn_more_p2: `Wij helpen jou om de volgende stap te zetten in de wereld van AI, een stap die past bij jouw bedrijf en jouw waarden.
+    Hoe bereid je je organisatie of medewerkers voor op veranderingen die er gaan komen?
+    Welke kansen liggen er voor jouw organisatie? En welke kansen zeg je bewust nee tegen?`,
+  learn_more_p2: `Wij helpen jou om de volgende stap te zetten in de wereld van AI, een stap die past bij jouw organisatie en jouw waarden.
     Neem contact op voor een volledig gratis en vrijblijvend gesprek.`,
   location: 'Locatie',
   location_p1:
-    'De AI strategie dag vind plaats op de Enne Jans Heerd, een eeuwenoude plek vlak boven Winsum in het Groningse landschap. Dit is een unieke plek waar je met je team in alle rust kunt nadenken over de rol van AI in jouw bedrijf.',
+    'De AI strategie dag vind plaats op de Enne Jans Heerd, een eeuwenoude plek vlak boven Winsum in het Groningse landschap. Dit is een unieke plek waar je met je team in alle rust kunt nadenken over de rol van AI in jouw organisatie.',
   location_p2:
     'Meer informatie over de locatie vind je op de website van de Enne Jans Heerd.',
   login: 'Login',
@@ -118,23 +118,23 @@ export const dict = {
   sending: 'Verzenden',
   strategy_day: 'AI strategie dag',
   strategy_day_description:
-    'Jouw bedrijf, jouw AI-strategie. Wij helpen je de juiste keuzes te maken.',
+    'Jouw organisatie, jouw AI-strategie. Wij helpen je de juiste keuzes te maken.',
   strategy_day_p1: `AI verandert de wereld in hoog tempo. Maar hoe bepaal je welke rol AI in jouw organisatie moet spelen?
     Waar liggen de kansen, en welke ontwikkelingen laat je bewust aan je voorbijgaan? Tijdens onze strategie dag
-    helpen we je om een strategische visie te vormen en een concreet plan van aanpak te ontwikkelen, zodat je grip krijgt op AI in jouw bedrijf.`,
+    helpen we je om een strategische visie te vormen en een concreet plan van aanpak te ontwikkelen, zodat je grip krijgt op AI in jouw organisatie.`,
   strategy_day_p2: `De dag start met twee interactieve theorie-sessies, waarbij je zelf kiest wat voor jouw organisatie
     het meest relevant is. Wil je een technische deep-dive om beter te begrijpen hoe AI werkt? Of juist 
     inzicht in de nieuwste tools, wet- en regelgeving, of de impact op data en privacy? Met up-to-date 
     kennis en heldere uitleg krijg je een stevige basis om doordachte keuzes te maken.`,
-  strategy_day_p3: `In de middag vertalen we die kennis naar jouw bedrijf. Wat betekent AI voor jouw strategie? Hoe benut 
+  strategy_day_p3: `In de middag vertalen we die kennis naar jouw organisatie. Wat betekent AI voor jouw strategie? Hoe benut 
     je kansen zonder je afhankelijk te maken van grote techspelers? Samen werken we aan een plan voor de komende
     maanden, afgestemd op jouw doelen en waarden.`,
   strategy_day_p4: `Wij geloven dat je dit soort keuzes het beste maakt met een helder hoofd en frisse lucht. Daarom organiseren we onze strategie dagen op de Enne Jans Heerd,
     vlak boven Winsum. Midden in het Groningse landschap, ver weg van de dagelijkse drukte, kun je met je team in alle rust nadenken over de rol 
-    van AI in jouw bedrijf.`,
+    van AI in jouw organisatie.`,
   strategy_formation: 'Jullie AI strategie',
   strategy_formation_description1:
-    'Met de nieuwe informatie van de dag gaan we hier de AI strategie voor jouw bedrijf of team vormen. Welke kansen zien jullie? Welke gevaren zien jullie? Welke stukken van AI omarmen jullie en welke niet? Met behulp van een praktisch strategiemodel (zoals het Business Model Canvas of OGSM) vertalen we alle nieuwe inzichten naar concrete plannen.',
+    'Met de nieuwe informatie van de dag gaan we hier de AI strategie voor jouw organisatie of team vormen. Welke kansen zien jullie? Welke gevaren zien jullie? Welke stukken van AI omarmen jullie en welke niet? Met behulp van een praktisch strategiemodel (zoals het Business Model Canvas of OGSM) vertalen we alle nieuwe inzichten naar concrete plannen.',
   strategy_formation_description2:
     'Zo ga je naar huis met meer dan alleen inspiratie: je hebt een eerste versie van een gedragen AI-strategie die richting geeft voor de komende maanden.',
   close: 'Sluiten',
@@ -144,7 +144,7 @@ export const dict = {
     'Stap 1: Scan de QR-code met je authenticator-app',
   step_2_verify_the_setup_by_filling_in_the_2fa_code:
     'Stap 2: Bevestig door de 2FA-code in te vullen',
-  structured_data: 'Structuur in je data, overzicht in je bedrijf',
+  structured_data: 'Structuur in je data, overzicht in je organisatie',
   structured_data_menu: 'Opzetten data-infrastructuur',
   structured_data_description: `Een goed ingerichte data-omgeving helpt je sneller en beter beslissingen te nemen. 
     Wij helpen je bij het opzetten van een schaalbare data-infrastructuur, van rouwe data
