@@ -1,6 +1,22 @@
 export const dict = {
   a_puppy: 'Een puppy!',
   about_applyai: 'Over ApplyAI',
+  about_applyai_p0: `
+    Technologie kan fantastisch zijn, en de vooruitgang en mogelijkheden van AI zijn wonderbaarlijk. Zeker als je
+    bedenkt dat alles uiteindelijk nullen en enen zijn waarmee we berekeningen doen.
+    Maar AI wordt vooral nog gebruikt op een manier die niet altijd goed is voor mensen en de aarde.
+    Denk aan algoritmes die je verslaafd maken aan social media, AI die werk vervangt, of grote
+    techbedrijven die steeds meer macht krijgen. Om nog niet te spreken over de enorme impact die AI heeft op het milieu.
+  `,
+  about_applyai_p1_heading: 'Waarom wij er zijn',
+  about_applyai_p1: `
+    Mens blijven in een wereld die sneller dan ooit digitaliseert. Daar draait het om.
+    Op dit moment is de kernvraag niet zozeer wat AI kan, maar wat willen we dat AI voor ons doet?
+    Wij geloven dat technologie er moet zijn om mensen te ondersteunen, niet om ze te vervangen of te manipuleren.
+    Daarom helpen we organisaties om een visie op AI te vormen op een verantwoorde manier, met oog voor mens en milieu.
+    Zodat technologie bijdraagt aan een betere wereld, in plaats van er schade aan toe te brengen.
+    Wij geloven dat dit kan, en dat dit er fantastisch uit kan zien.
+  `,
   account: 'Account',
   activity: 'Activiteit',
   activity_description:

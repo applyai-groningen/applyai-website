@@ -4,6 +4,7 @@ import { Navigate } from '@solidjs/router'
 import type { RouteDefinition } from '@solidjs/router'
 
 import { useUser } from './context/UserProvider'
+import { AboutPage } from './pages/About'
 import { LandingPage } from './pages/LandingPage'
 import { VerifyEmailPage } from './pages/VerifyEmailPage'
 import { NotFoundPage } from './pages/NotFoundPage'
@@ -56,6 +57,10 @@ export const routes: RouteDefinition[] = [
   {
     path: '/verify-email',
     component: () => <VerifyEmailPage />,
+  },
+  {
+    path: '/about',
+    component: () => <AboutPage />,
   },
   {
     path: '**',

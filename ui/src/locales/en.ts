@@ -3,6 +3,22 @@ import { Translations } from '../context/LocaleProvider'
 export const dict: Translations = {
   a_puppy: 'A puppy!',
   about_applyai: 'About ApplyAI',
+  about_applyai_p0: `
+    Technology can be amazing, and the advancements and possibilities of AI are wondrous.
+    Especially when you consider that everything ultimately consists of zeros and ones with which we perform calculations.
+    But AI is still mostly used in ways that are not always good for people and the planet.
+    Think of algorithms that make you addicted to social media, AI that replaces jobs, or big
+    tech companies that gain more and more power. Not to mention the enormous impact AI has on the environment.
+  `,
+  about_applyai_p1_heading: 'Why we are here',
+  about_applyai_p1: `
+    Staying human in a world that digitalizes faster than ever. That’s what it’s all about.
+    Right now, the core question is not so much what AI can do, but what do we want AI to do for us?
+    We believe that technology should exist to support people, not to replace or manipulate them.
+    That’s why we help organizations form a vision on AI in a responsible way, with an eye for people and the environment.
+    So that technology contributes to a better world, instead of causing harm.
+    We believe this is possible, and that it can look fantastic.
+  `,
   account: 'Account',
   activity: 'Activity',
   activity_description:
