@@ -174,7 +174,7 @@ export const dict = {
   successfully_verified_email: 'E-mail succesvol geverifieerd',
   tailored_ai: 'AI op maat',
   tailored_ai_description:
-    'AI ontwikkelt in Groningen voor jou. Jij bedenkt, wij bouwen.',
+    'AI ontwikkelt in Groningen voor jou. In samenwerking met jou bouwen we precies wat je nodig hebt.',
   tailored_ai_p0: `Stel je voor: een slimme agent die automatisch klantvragen beantwoordt, een 
      taalmodel dat interne documenten samenvat of een chatbot die je medewerkers 
      helpt met dagelijkse taken. Of wat dacht je van AI die risico’s voorspelt, 
